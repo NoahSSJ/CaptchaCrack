@@ -1,0 +1,8 @@
+sites:
+  - name: '豆瓣'
+    url: 'https://accounts.douban.com'
+    captcha: 'tencent'
+    type: 'slide'
+    danger: false
+
+  --
